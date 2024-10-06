@@ -8,7 +8,7 @@
 |**Template Used**<br>List Report Page V2|
 |**Service Type**<br>SAP System (ABAP On Premise)|
 |**Service URL**<br>https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC|
-|**Module Name**<br>businesspartners|
+|**Module Name**<br>businesspartnersreportlist|
 |**Application Title**<br>Suppliers|
 |**Namespace**<br>ns|
 |**UI5 Theme**<br>sap_horizon|
@@ -19,7 +19,7 @@
 |**Main Entity**<br>BusinessPartnerSet|
 |**Navigation Entity**<br>None|
 
-## businesspartners
+## businesspartnersreportlist
 
 An SAP Fiori application.
 

@@ -1,7 +1,7 @@
 {
   "_version": "1.65.0",
   "sap.app": {
-    "id": "ns.businesspartners",
+    "id": "ns.businesspartnersreportlist",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -88,7 +88,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "ns.businesspartners.i18n.i18n"
+          "bundleName": "ns.businesspartnersreportlist.i18n.i18n"
         }
       },
       "": {
