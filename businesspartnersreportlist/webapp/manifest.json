@@ -39,7 +39,7 @@
       "inbounds": {
         "Object-display": {
           "semanticObject": "Object",
-          "action": "show",
+          "action": "display",
           "title": "{{flpTitle}}",
           "subTitle": "{{flpSubtitle}}",
           "icon": "sap-icon://chart-table-view",
