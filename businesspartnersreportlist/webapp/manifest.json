@@ -37,8 +37,8 @@
     },
     "crossNavigation": {
       "inbounds": {
-        "Object-display": {
-          "semanticObject": "Object",
+        "businesspartnersreportlist-display": {
+          "semanticObject": "businesspartnersreportlist",
           "action": "display",
           "title": "{{flpTitle}}",
           "subTitle": "{{flpSubtitle}}",
